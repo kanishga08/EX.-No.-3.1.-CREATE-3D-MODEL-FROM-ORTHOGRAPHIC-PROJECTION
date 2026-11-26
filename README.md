@@ -11,36 +11,34 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+PROCEDURE: 
+1. First, study the given diagram carefully and note down all the dimensions required for 
+drawing.
+<img width="517" height="320" alt="Screenshot 2026-11-26 085215" src="https://github.com/user-attachments/assets/6085a8a3-6e89-4115-bd70-022ad2b4f6ce" />
+2. Draw the horizontal and vertical reference lines using a pencil and scale
+3. Draw the rectangular body and the extended cylindrical portion on the right side using the given measurements.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+4. Start by drawing the front view of the object according to the given dimensions.
+5. Draw the rectangular body and the extended cylindrical portion on the right side using the given measurements.
+6. Draw the semicircular portion on the left side with a radius of 16 mm and mark the circular hole of 16 mm diameter.
+<img width="342" height="257" alt="Screenshot 2026-11-26 085844" src="https://github.com/user-attachments/assets/715f5756-24a4-45c1-bbbd-88b0f3ad991e" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+7. Draw the rectangular body and the extended cylindrical portion on the right side using the given measurements.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+8. Next, project the lines from the front view upwards to draw the top view of the object.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+9. Mark the required dimensions and draw the hidden lines wherever necessary.
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+10. Then, project the lines towards the right side and complete the right-side view according to the given dimensions.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+11. Draw the centre lines for the circular portions and make sure all the views are properly aligned.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
-
-7.	Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
-
-8.	After finishing the model convert to drawing sheet per  ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
-
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+12. Finally, darken the visible outlines, erase the extra construction lines and check whether all the dimensions are correct.
+##SKETCH:
+<img width="897" height="635" alt="WhatsApp Image 2026-11-18 at 7 30 23 AM" src="https://github.com/user-attachments/assets/49cc9af4-5012-4e61-999e-ebe5f1635553" />
 
 ## OUTPUT:
+<img width="1600" height="764" alt="WhatsApp Image 2026-11-18 at 7 30 24 AM" src="https://github.com/user-attachments/assets/d8b9602e-e0a6-4561-9af1-d44c96d70ab6" />
 
 ## RESULT:
-Thus, 3D model is created from orthographic projection.
+Thus, 3D model is created from orthographic projection
